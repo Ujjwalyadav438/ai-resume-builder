@@ -35,7 +35,7 @@ An advanced **AI-powered Resume Builder** built using Streamlit and Llama 4.
 
 ## 🌐 Live Demo
 
-👉 [Click Here to Try](http://localhost:8501/)
+👉 [https://ai-resume-builder-eeld7h6huvsdt5fp3ksrof.streamlit.app/]()
 
 ---
 
